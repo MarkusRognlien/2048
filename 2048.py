@@ -2,7 +2,7 @@ import pygame
 import random
 from roundrects import aa_round_rect
 
-DIM = 3
+DIM = 4
 TILE_SIZE = 100
 MARGIN_SIZE = 50
 SPACING = 4
